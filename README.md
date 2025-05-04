@@ -4,6 +4,10 @@ Este é um projeto simples de **Gerenciador de Tarefas (To-Do List)** criado com
 
 ---
 
+![Demonstração do app](https://github.com/user-attachments/assets/778411ba-f547-40ab-b940-bee40601d669)
+
+
+
 
 ## 🚀 Funcionalidades
 
