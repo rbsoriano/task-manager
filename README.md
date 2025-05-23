@@ -21,7 +21,7 @@ Este é um projeto simples de **Gerenciador de Tarefas (To-Do List)** criado com
 ---
 
 ## 🛠️ Tecnologias Utilizadas
-
+e
 - [React](https://reactjs.org/)
 - [React Icons](https://react-icons.github.io/react-icons/)
 - CSS puro
